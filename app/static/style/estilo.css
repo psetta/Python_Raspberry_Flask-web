@@ -1,0 +1,65 @@
+a:link, a:visited, a:active, a:hover {
+	text-decoration: none;
+}
+a:link {
+	color: black;
+}
+a:visited {
+	color: gray;
+}
+a:active {
+	color: green;
+}
+a:hover {
+	color: black;
+}
+body {
+	background-color: white;
+}
+#frame {
+	height: 100%;
+	width: 50em; 
+	margin: 0 auto;
+	background-color: #FAFAFA; 
+}
+#titulo {
+	background-color: #E9E9E9;
+	font-size: 150%;
+	color: black;
+	padding: 0.2em;
+	margin-bottom: 1em;
+	border: 0.2em solid gray;
+}
+#titulo:hover {
+	color: gray;
+}
+#indice {
+	width: 35em; 
+	margin: 0 auto; 
+	padding: 0.5em;
+	background-color: #C3F5D6; 
+	border: 0.3em solid #C3F5D6;
+}
+#indice table {
+	margin: 0 auto;
+	border-spacing: 1.2em 0;
+}
+#indice table td {
+	height: 2.5em;
+	width: 5em;
+	border: 0.3em solid #86E5AB;
+	text-align: center;
+	background-color: white;
+	border-radius: 1em;
+}
+#indice table td:hover {
+	background-color: #FAFAFA;
+	border: 0.3em solid #FAFAFA;
+}
+#indice table td a {
+	height: 100%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
