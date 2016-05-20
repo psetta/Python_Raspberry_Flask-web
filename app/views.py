@@ -17,20 +17,36 @@ def index():
 
 @app.route('/login')
 def login():
-	if False:
-		return flask.redirect("/index")
+	if "key" in flask.session:
+		return flask.redirect("/")
 	else:
 		return flask.render_template("login.html",
 				style="#login {text-align: center;}")
 
 @app.route('/signup', methods = ['POST'])				
 def signup():
-	passwd = flask.request.form["passwd"]
-	if passwd == "rodaballo":
-		flask.session["key"] = os.urandom(24)
-	return flask.redirect('/')
+	if "key" in flask.session:
+		return flask.redirect("/")
+	else:
+		passwd = flask.request.form["passwd"]
+		if passwd == "abrete":
+			flask.session["key"] = os.urandom(24)
+		return flask.redirect('/')
 
 @app.route('/logout')
 def logout():
-    flask.session.pop("key", None)
-    return flask.redirect("/")
+	if "key" in flask.session:
+		flask.session.pop("key", None)
+		return flask.redirect("/")
+	else:
+		return flask.redirect('/')
+
+#@app.route('/sshlog')
+#def sshlog():
+#	if "key" in flask.session:
+#		ssh = open("static/sshlog.txt","r").readlines()
+#		return flask.render_template("sshlog.html",
+#				style="#sshlog {text-align: center; margin: 0 auto;}",
+#				sshlog=ssh)
+#	else:
+#		return flask.redirect('/')

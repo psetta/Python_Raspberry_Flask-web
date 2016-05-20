@@ -1,7 +1,7 @@
 #!flask/bin/python
 from app import app
 
-app.debug=False
+app.debug=True
 
 applogger = app.logger
 

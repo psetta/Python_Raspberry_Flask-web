@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>login</title>
+		<title>psetta</title>
 		<meta name="UTF-8" />
 		<meta content="width=device-width, initial-scale=1.0" name="viewport" />
 		<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='style/estilo.css') }}"/>
@@ -9,17 +9,11 @@
 	</head>
 	<body>
 		<div id="frame">
-			<a href="http://psetta.no-ip.org">
+			<a href="http://psetta-flask.ga">
 				<div id="titulo">Psetta Maxima</div>
 			</a>
-			<hr />
-			<br />
 			<div id="indice">
-				<table>
-					<tr>
-						<td><a href="https://github.com/psetta" target="_blank">Github</a></td>
-					</tr>
-				</table>
+				{% block indice %} {% endblock %}
 			</div>
 			<br />
 			<hr />

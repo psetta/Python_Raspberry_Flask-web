@@ -5,7 +5,7 @@ a:link {
 	color: black;
 }
 a:visited {
-	color: gray;
+	color: black;
 }
 a:active {
 	color: green;
@@ -17,18 +17,19 @@ body {
 	background-color: white;
 }
 #frame {
-	height: 100%;
+	min-height: 100%;
 	width: 50em; 
 	margin: 0 auto;
 	background-color: #FAFAFA; 
 }
 #titulo {
+	height: 2em;
 	background-color: #E9E9E9;
 	font-size: 150%;
 	color: black;
 	padding: 0.2em;
 	margin-bottom: 1em;
-	border: 0.2em solid gray;
+	border: 0.2em solid #E9E9E9;
 }
 #titulo:hover {
 	color: gray;
@@ -49,12 +50,16 @@ body {
 	width: 5em;
 	border: 0.3em solid #86E5AB;
 	text-align: center;
-	background-color: white;
+	background-color: #FAFAFA;
 	border-radius: 1em;
 }
-#indice table td:hover {
+#indice table td:hover.normal {
 	background-color: #FAFAFA;
 	border: 0.3em solid #FAFAFA;
+}
+#indice table td:hover.red  {
+	background-color: #FFA9A9;
+	border: 0.3em solid #FFA9A9;
 }
 #indice table td a {
 	height: 100%;

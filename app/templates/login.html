@@ -1,9 +1,16 @@
 {% extends "base.html" %}
+{% block indice %}
+		<table>
+			<tr>
+				<td class="normal"><a href="https://github.com/psetta" target="_blank">Github</a></td>
+			</tr>
+		</table>
+{% endblock %}
 {% block content %}
-				<div id="login">
-					<h2>Login</h2>
-					<form action="/signup" method="POST">
-						<input name="passwd" type="password" />
-					</form>
-				</div>
+		<div id="login">
+			<h2>Login</h2>
+			<form action="/signup" method="POST">
+				<input name="passwd" type="password" />
+			</form>
+		</div>
 {% endblock %}
