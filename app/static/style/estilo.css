@@ -22,17 +22,39 @@ body {
 	margin: 0 auto;
 	background-color: #FAFAFA; 
 }
+#encabezado {
+	display: flex;
+	margin-bottom: 1em;
+}
 #titulo {
-	height: 2em;
+	display: flex;
+	width: 40em;
+	height: 3em;
 	background-color: #E9E9E9;
-	font-size: 150%;
 	color: black;
 	padding: 0.2em;
-	margin-bottom: 1em;
-	border: 0.2em solid #E9E9E9;
+	border: 0.1em solid #E9E9E9;
 }
 #titulo:hover {
 	color: gray;
+}
+#sesion {
+	width: 10em;
+	height: 3em;
+	background-color: #E9E9E9;
+	padding: 0.2em;
+	border: 0.1em solid #E9E9E9;
+}
+#sesion table td{
+	width: 10em;
+	border: 0.1em solid gray;
+}
+#logout {
+	text-align: center;
+	background-color: #FAFAFA;
+}
+#logout:hover {
+	background-color: FFA9A9;
 }
 #indice {
 	width: 35em; 
@@ -67,4 +89,25 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+}
+#login {
+	width: 20em;
+	background-color: white;
+	margin: 0 auto;
+	text-align: center;
+	border: 0.1em solid gray;
+}
+#login h2 {
+	background-color: #C3F5D6;
+}
+#login table{
+	margin: 0 auto;
+	text-align: left;
+	background-color: #FAFAFA;
+}
+#login table input{
+	width:10em;
+}
+#login table td {
+	height: 1em;
 }

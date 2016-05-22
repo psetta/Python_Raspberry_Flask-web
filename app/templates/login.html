@@ -10,7 +10,27 @@
 		<div id="login">
 			<h2>Login</h2>
 			<form action="/signup" method="POST">
-				<input name="passwd" type="password" />
+				<table>
+					<tr>
+						<td>User:</td>
+					</tr>
+					<tr>
+						<td><input name="user" type="text" /></td>
+					</tr>
+					</tr>
+					<tr>
+						<td>Password:</td>
+					</tr>
+					<tr>
+						<td><input name="passwd" type="password" /></td>
+					</tr>
+					<tr><td></td></tr>
+					<tr>
+						<td>
+							<input type="submit" value="Entrar" size="5">
+						</td>
+					</tr>
+				</table>
 			</form>
 		</div>
 {% endblock %}

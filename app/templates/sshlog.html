@@ -3,6 +3,7 @@
 		<table>
 			<tr>
 				<td class="normal"><a href="https://github.com/psetta" target="_blank">Github</a></td>
+				<td class="normal"><a href="/sshlog">SSH Log</a></td>
 			</tr>
 		</table>
 {% endblock %}
@@ -10,14 +11,16 @@
 <div id="sshlog">
 	<table>
 		<tr>
-			<td>DATE</td><td>NAME</td><td>IP</td><td>CITY</td><td>COUNTRY</td><td>HOSTNAME</td>
+			<th>DATE</th><th>NAME</th><th>IP</th><th>CITY</th><th>COUNTRY</th><th>HOSTNAME</th>
 		</tr>
 		{% for line in sshlog %}
-			<tr>
-				{% for cell in line.strip(",") %}
-					<td>{{ cell }}</td>
-				{% endfor %}
-			</tr>
+			{% if line %}
+				<tr>
+					{% for cell in line.split(",") %}
+						<td>{{ cell }}</td>
+					{% endfor %}
+				</tr>
+			{% endif %}
 		{% endfor %}
 	</table>
 </div>

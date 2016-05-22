@@ -9,9 +9,27 @@
 	</head>
 	<body>
 		<div id="frame">
-			<a href="http://psetta-flask.ga">
-				<div id="titulo">Psetta Maxima</div>
-			</a>
+			<div id="encabezado">
+				<a href="http://psetta-flask.ga">
+					<div id="titulo">Psetta Maxima</div>
+				</a>
+				<div id="sesion">
+					{% if  user %}
+						<table>
+							<tr>
+								<td>User:</td><td>{{ user }}</td>
+							</tr>
+							<tr>
+								<td colspan=2>
+									<a href="/logout">
+										<div id="logout">Logout</div>
+									</a>
+								</td>
+							</tr>
+						</table>
+					{% endif %}
+				</div>
+			</div>
 			<div id="indice">
 				{% block indice %} {% endblock %}
 			</div>
