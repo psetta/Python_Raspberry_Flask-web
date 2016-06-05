@@ -1,36 +1,29 @@
 {% extends "base.html" %}
-{% block indice %}
-		<table>
-			<tr>
-				<td class="normal"><a href="https://github.com/psetta" target="_blank">Github</a></td>
-			</tr>
-		</table>
-{% endblock %}
 {% block content %}
-		<div id="login">
-			<h2>Login</h2>
-			<form action="/signup" method="POST">
-				<table>
-					<tr>
-						<td>User:</td>
-					</tr>
-					<tr>
-						<td><input name="user" type="text" /></td>
-					</tr>
-					</tr>
-					<tr>
-						<td>Password:</td>
-					</tr>
-					<tr>
-						<td><input name="passwd" type="password" /></td>
-					</tr>
-					<tr><td></td></tr>
-					<tr>
-						<td>
-							<input type="submit" value="Entrar" size="5">
-						</td>
-					</tr>
-				</table>
-			</form>
-		</div>
+    <div id="login">
+      <h2>Login</h2>
+      <form action="/signup" method="POST">
+        <table>
+          <tr>
+            <td>User:</td>
+          </tr>
+          <tr>
+            <td><input name="user" type="text" /></td>
+          </tr>
+          </tr>
+          <tr>
+            <td>Password:</td>
+          </tr>
+          <tr>
+            <td><input name="passwd" type="password" /></td>
+          </tr>
+          <tr><td></td></tr>
+          <tr>
+            <td>
+              <input type="submit" value="Entrar" size="5">
+            </td>
+          </tr>
+        </table>
+      </form>
+    </div>
 {% endblock %}

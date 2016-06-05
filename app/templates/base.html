@@ -1,44 +1,53 @@
 <html>
-	<head>
-		<title>psetta</title>
-		<meta name="UTF-8" />
-		<meta content="width=device-width, initial-scale=1.0" name="viewport" />
-		<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='style/estilo.css') }}"/>
-		<link rel="icon" type="image/x-icon" href="{{ url_for('static',filename='favicon.ico') }}"/>
-		<style>{{ style }}</style>
-	</head>
-	<body>
-		<div id="frame">
-			<div id="encabezado">
-				<a href="http://psetta-flask.ga">
-					<div id="titulo">Psetta Maxima</div>
-				</a>
-				<div id="sesion">
-					{% if  user %}
-						<table>
-							<tr>
-								<td>User:</td><td>{{ user }}</td>
-							</tr>
-							<tr>
-								<td colspan=2>
-									<a href="/logout">
-										<div id="logout">Logout</div>
-									</a>
-								</td>
-							</tr>
-						</table>
-					{% endif %}
-				</div>
-			</div>
-			<div id="indice">
-				{% block indice %} {% endblock %}
-			</div>
-			<br />
-			<hr />
-			<br />
-			<div id="contido">
-				{% block content %} {% endblock %}
-			</div>
-		</div>
-	</body>
+  <head>
+    <title>psetta</title>
+    <meta name="UTF-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='style/estilo.css') }}"/>
+    <link rel="icon" type="image/x-icon" href="{{ url_for('static',filename='favicon.ico') }}"/>
+	{% block head %} {% endblock %}
+    <style>{{ style }}</style>
+  </head>
+  <body>
+    <div id="frame">
+      <div id="encabezado">
+        <a href="/index">
+          <div id="titulo">Psetta Maxima</div>
+        </a>
+        <div id="sesion">
+          {% if  user %}
+            <table>
+              <tr>
+                <td>User:</td><td>{{ user }}</td>
+              </tr>
+              <tr>
+                <td colspan=2>
+                  <a href="/logout">
+                    <div id="logout">Logout</div>
+                  </a>
+                </td>
+              </tr>
+            </table>
+          {% endif %}
+        </div>
+      </div>
+      <div id="indice">
+        <table>
+          <tr>
+            <td class="normal"><a href="https://github.com/psetta" target="_blank">Github</a></td>
+            {% if  user %}
+              <td class="normal"><a href="/sshlog">SSH Log</a></td>
+              <td class="normal"><a href="/terminal">Terminal</a></td>
+            {% endif %}
+            </tr>
+        </table>
+      </div>
+      <br />
+      <hr />
+      <br />
+      <div id="contido">
+        {% block content %} {% endblock %}
+      </div>
+    </div>
+  </body>
 </html>

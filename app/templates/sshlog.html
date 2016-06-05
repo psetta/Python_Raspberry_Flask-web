@@ -1,27 +1,19 @@
 {% extends "base.html" %}
-{% block indice %}
-		<table>
-			<tr>
-				<td class="normal"><a href="https://github.com/psetta" target="_blank">Github</a></td>
-				<td class="normal"><a href="/sshlog">SSH Log</a></td>
-			</tr>
-		</table>
-{% endblock %}
 {% block content %}
 <div id="sshlog">
-	<table>
-		<tr>
-			<th>DATE</th><th>NAME</th><th>IP</th><th>CITY</th><th>COUNTRY</th><th>HOSTNAME</th>
-		</tr>
-		{% for line in sshlog %}
-			{% if line %}
-				<tr>
-					{% for cell in line.split(",") %}
-						<td>{{ cell }}</td>
-					{% endfor %}
-				</tr>
-			{% endif %}
-		{% endfor %}
-	</table>
+  <table>
+    <tr>
+      <th>DATE</th><th>NAME</th><th>IP</th><th>CITY</th><th>COUNTRY</th><th>HOSTNAME</th>
+    </tr>
+    {% for line in sshlog %}
+      {% if line %}
+        <tr>
+          {% for cell in line.split(",") %}
+            <td>{{ cell }}</td>
+          {% endfor %}
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </table>
 </div>
 {% endblock %}

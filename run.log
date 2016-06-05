@@ -1,0 +1,1230 @@
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:09:08] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:09:08] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:09:08] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:09:08] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:09:13] "POST /signup HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:09:13] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:09:13] "GET /signup?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:09:13] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:09:13] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:09:13] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:09:13] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:10:36] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:10:37] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:10:37] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:10:39] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:10:40] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:12:54] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:12:54] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:12:54] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:12:55] "GET /index HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:12:55] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:12:56] "GET /index HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:12:56] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:12:57] "GET /index HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:12:57] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:12:58] "GET /index HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:12:58] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:12:58] "GET /index HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:12:58] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:12:59] "GET /index HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:12:59] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:13:44] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:13:44] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:13:44] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:13:45] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:13:45] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:13:45] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:13:46] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:13:46] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:13:46] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:14:02] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:14:02] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:14:02] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:14:44] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:14:44] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:14:51] "GET /index HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:14:51] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:14:52] "GET /index HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:14:52] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:14:52] "GET /index HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:14:52] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:14:57] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:14:58] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:14:59] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:15:00] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:15:00] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:15:03] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:15:03] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:15:06] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:15:06] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:15:08] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:15:08] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:17:31] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:17:31] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:17:31] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:17:34] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:17:34] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:17:37] "POST /signup HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:17:37] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:17:37] "GET /signup?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:17:37] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:17:37] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:17:37] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:17:37] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:17:41] "POST /signup HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:17:41] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:17:41] "GET /signup?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:17:41] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:17:41] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:17:41] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:17:41] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:18:08] "POST /signup HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:18:08] "GET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:18:08] "GET /signup?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:18:08] "GET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:18:08] "GET /signup?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:18:08] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:18:08] "GET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:18:10] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:18:10] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:18:30] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:18:31] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:18:31] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:18:34] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:18:34] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:18:36] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:18:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:18:36] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:19:10] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:19:10] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:19:11] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:19:19] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:19:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:19:40] "GET /logout HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:19:40] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:19:40] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:19:43] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:19:43] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:19:45] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:19:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:19:51] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:19:57] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:20:10] "GET /asd/asd HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:20:10] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:20:15] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:23:54] "GET /index HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:23:54] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:23:54] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:23:57] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:23:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:23:59] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:25:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:26:02] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:27:54] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:27:54] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:27:54] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:27:55] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:27:55] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:27:55] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:27:55] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:28:12] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:28:12] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:28:12] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:28:12] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:28:13] "GET /consola HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:28:15] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:28:18] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:28:20] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:32:52] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:32:53] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:32:53] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:32:53] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 03:32:53] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:44:02] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:44:04] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:46:13] "GET /logout HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:46:13] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:46:13] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:46:17] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:46:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:47:38] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:47:39] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:50:26] "GET /index HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:50:26] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:50:26] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:50:28] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:50:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:50:30] "GET /sshlog HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:50:30] "GET /sshlog?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:50:30] "GET /sshlog?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:50:30] "GET /sshlog?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:50:30] "GET /sshlog?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:50:30] "GET /sshlog?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:50:30] "GET /sshlog?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:52:15] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:52:15] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:52:16] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:52:18] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:52:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:52:19] "GET /sshlog HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:52:19] "GET /sshlog?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:52:19] "GET /sshlog?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:52:19] "GET /sshlog?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:52:19] "GET /sshlog?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:52:19] "GET /sshlog?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:53:09] "GET /sshlog HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:53:09] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:53:09] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:53:09] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:53:12] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:53:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:53:13] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:53:15] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:53:17] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:53:18] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:53:19] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:53:20] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:53:25] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:54:54] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:54:55] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:54:55] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:54:55] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:54:55] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:54:55] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:54:55] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:54:55] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:54:57] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:54:57] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:54:57] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:54:57] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:10] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:10] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:10] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:10] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:11] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:11] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:11] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:11] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:11] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:11] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:11] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:11] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:11] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:11] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:11] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:11] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:12] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:12] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:12] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:12] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:12] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:12] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:12] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:12] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:13] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:13] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:13] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:13] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:25] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:25] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:25] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:25] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:25] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:25] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:26] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:26] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:26] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:26] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:26] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:26] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:30] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:30] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:30] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:30] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:50] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:50] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:50] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:55:50] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:06] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:06] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:06] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:06] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:07] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:07] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:07] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:07] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:08] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:08] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:08] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:08] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:15] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:15] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:15] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:15] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:16] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:16] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:16] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:16] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:16] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:16] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:16] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:16] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:17] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:17] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:17] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:17] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:21] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:21] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:21] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:21] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:22] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:22] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:22] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:22] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:22] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:22] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:22] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:22] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:23] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:24] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:24] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:24] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:35] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:35] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:35] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:35] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:35] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:35] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:35] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:35] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:36] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:36] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:36] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:36] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:41] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:41] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:41] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:41] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:48] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:48] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:48] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:48] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:55] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:56:56] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:57:24] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:57:33] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:57:57] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:57:57] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:57:57] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:57:57] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:57:58] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:57:58] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:57:58] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:57:58] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:57:58] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:57:58] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:57:58] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:57:58] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:58:05] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:58:05] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:58:05] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:58:05] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:58:08] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:58:09] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:58:10] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 04:58:24] "GET /consola HTTP/1.1" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:00:27] "GET /index HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:00:27] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:00:27] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:03:23] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:03:23] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:03:23] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:07:01] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:07:01] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:07:01] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:07:01] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:07:01] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:07:01] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:07:03] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:07:04] "GET / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:07:04] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:07:04] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:07:04] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:07:04] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:07:04] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:07:04] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:07:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:07:22] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:07:22] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:07:22] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:14] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:14] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:14] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:14] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:14] "GET /static/images/TFH_Link_verde_ok.png HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:14] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:16] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:18] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:22] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:24] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:25] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:26] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:26] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:28] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:29] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:29] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:30] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:30] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:31] "GET /sshlog HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:32] "GET /logout HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:32] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:32] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:35] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:40] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:41] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:10:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:21] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:21] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:21] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:24] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:26] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:27] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:28] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:43] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:43] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:43] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:46] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:47] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:17:52] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:18:45] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:18:45] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:18:45] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:18:47] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:18:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:18:48] "GET /terminal HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:18:48] "GET /terminal?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:18:48] "GET /terminal?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:18:48] "GET /terminal?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:18:48] "GET /terminal?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:18:48] "GET /terminal?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:18:48] "GET /terminal?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:19:03] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:19:03] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:19:04] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:19:04] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:19:06] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:19:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:19:07] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:19:41] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:19:41] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:19:42] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:19:42] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:19:42] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:19:42] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:19:45] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:19:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:19:46] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:21:07] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:21:07] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:21:07] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:21:08] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:21:08] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:21:08] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:21:49] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:21:49] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:21:49] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:21:57] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:21:57] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:21:57] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:24:14] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:24:14] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:24:14] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:25:11] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:25:11] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:25:11] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:25:11] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:25:12] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:25:12] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:25:12] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:25:18] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:25:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:25:19] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:27:46] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:27:46] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:27:46] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:27:46] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:27:46] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:27:46] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:28:33] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:28:33] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:28:33] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:29:26] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:29:26] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:29:26] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:31:03] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:31:03] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:31:03] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:31:04] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:31:06] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:31:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:31:07] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:31:31] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:31:31] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:31:31] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:31:31] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:31:34] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:31:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:31:35] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:33:27] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:33:27] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:33:27] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:33:27] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:33:29] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:33:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:33:30] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:33:52] "GET /_command HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:33:52] "GET /_command?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:33:52] "GET /_command?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:33:52] "GET /_command?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:33:52] "GET /_command?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:33:52] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:33:52] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:05] "GET /_command HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:05] "GET /_command?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:05] "GET /_command?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:05] "GET /_command?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:05] "GET /_command?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:05] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:05] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:07] "GET /_command HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:07] "GET /_command?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:07] "GET /_command?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:07] "GET /_command?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:07] "GET /_command?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:07] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:07] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:19] "GET /_command HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:20] "GET /_command?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:20] "GET /_command?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:20] "GET /_command?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:20] "GET /_command?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:20] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:20] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:28] "GET /_command HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:37] "GET /_command HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:38] "GET /_command HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:38] "GET /_command?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:38] "GET /_command?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:38] "GET /_command?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:38] "GET /_command?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:38] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:38] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:40] "GET /_command HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:40] "GET /_command?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:40] "GET /_command?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:40] "GET /_command?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:40] "GET /_command?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:40] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:34:40] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:35:09] "GET /_command HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:35:09] "GET /_command HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:35:25] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:35:25] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:35:25] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:35:28] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:35:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:35:29] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:39:29] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:39:29] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:39:29] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:40:25] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:40:25] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:40:25] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:40:52] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:40:52] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:40:52] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:41:32] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:41:32] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:41:32] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:41:39] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:41:39] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:41:39] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:42:05] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:42:05] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:42:05] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:42:46] "GET /_command HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:43:07] "GET /_command HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:43:07] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:43:07] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:43:08] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:43:11] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:43:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:43:15] "GET /_command HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:43:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:43:19] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:43:51] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:43:51] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:43:51] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:35] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:35] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:35] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:35] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:35] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:35] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:36] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:36] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:36] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:38] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:38] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:38] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:38] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:38] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:38] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:39] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:39] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:39] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:49] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:49] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:49] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:45:58] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:46:14] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:46:14] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:46:14] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:46:16] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:47:57] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:47:57] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:47:57] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:47:57] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:47:58] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:47:58] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:48:37] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:48:37] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:48:37] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:49:42] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:49:42] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:49:42] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:49:42] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:49:44] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:49:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:49:46] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:50:13] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:50:14] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:50:14] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:50:14] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:50:16] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:50:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:50:17] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:50:34] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:50:34] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:50:34] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:50:35] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:50:37] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:50:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:50:38] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:51:09] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:51:09] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:51:09] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:51:09] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:51:12] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:51:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:51:14] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:53:40] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:53:40] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:53:40] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:53:40] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:53:42] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:53:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:53:43] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:53:47] "GET /_command HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:55:29] "GET /_command HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:55:36] "GET /_command HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:55:56] "GET /_command?comando=dir HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:55:56] "GET /_command?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:55:56] "GET /_command?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:55:56] "GET /_command?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:55:56] "GET /_command?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:55:56] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:55:56] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:57:58] "GET /_command?comando=%27dir%27 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:57:58] "GET /_command?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:57:58] "GET /_command?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:57:58] "GET /_command?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:57:58] "GET /_command?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:57:58] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:02] "GET /_command?comando=%22dir%22 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:02] "GET /_command?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:02] "GET /_command?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:02] "GET /_command?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:03] "GET /_command?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:03] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:06] "GET /_command?comando=1 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:06] "GET /_command?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:06] "GET /_command?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:06] "GET /_command?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:07] "GET /_command?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:07] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:08] "GET /_command?c=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:10] "GET /_command?c=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:13] "GET /_command?comando=1 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:13] "GET /_command?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:13] "GET /_command?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:13] "GET /_command?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:14] "GET /_command?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:14] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:34] "GET /_command?comando=1 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:35] "GET /_command?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:35] "GET /_command?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:35] "GET /_command?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:35] "GET /_command?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:35] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:35] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:38] "GET /_command?comando=dir HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:38] "GET /_command?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:38] "GET /_command?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:38] "GET /_command?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:38] "GET /_command?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:58:38] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:59:05] "GET /_command?comando=dir HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:59:05] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:59:05] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:59:08] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:59:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:59:09] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:59:11] "GET /_command HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:59:11] "GET /_command?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:59:11] "GET /_command?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:59:11] "GET /_command?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:59:12] "GET /_command?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:59:12] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:59:15] "GET /_command?comando=dir HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:59:15] "GET /_command?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:59:15] "GET /_command?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:59:15] "GET /_command?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:59:15] "GET /_command?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 05:59:15] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:00:12] "GET /_command?comando=dir HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:00:12] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:00:12] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:00:13] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:00:16] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:00:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:00:17] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:00:23] "GET /_command?comando=dir HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:00:23] "GET /_command?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:00:23] "GET /_command?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:00:23] "GET /_command?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:00:23] "GET /_command?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:00:23] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:00:23] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:01:25] "GET /_command?comando=dir HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:01:25] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:01:25] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:01:28] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:01:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:01:32] "GET /_command?comando=dir HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:02:20] "GET /_command?comando=dir HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:02:20] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:02:20] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:02:23] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:02:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:02:32] "GET /_command?comando=dir HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:02:32] "GET /_command?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:02:32] "GET /_command?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:02:32] "GET /_command?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:02:32] "GET /_command?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:02:32] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:06] "GET /_command?comando=dir HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:06] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:06] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:09] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:14] "GET /_command?comando=dir HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:14] "GET /_command?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:14] "GET /_command?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:14] "GET /_command?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:14] "GET /_command?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:15] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:23] "GET /_command?comando=dir HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:23] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:23] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:23] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:25] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:30] "GET /_command?comando=dir HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:30] "GET /_command?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:30] "GET /_command?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:30] "GET /_command?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:30] "GET /_command?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:30] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:06:30] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:07:39] "GET /_command?comando=dir HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:07:39] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:07:39] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:07:42] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:07:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:07:47] "GET /_command?comando=dir HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:07:47] "GET /_command?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:07:47] "GET /_command?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:07:47] "GET /_command?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:07:47] "GET /_command?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:07:47] "GET /_command?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:08:34] "GET /_command?comando=dir HTTP/1.1" 302 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:08:43] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:08:43] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:08:43] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:08:46] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:08:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:08:50] "GET /_command?comando=dir HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rodaballo\\Desktop\\Programas en Githup\\Python_Raspberry_Flask-web\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 147-672-284
+INFO:werkzeug: * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:09:57] "GET /_terminal HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:10:00] "GET /terminal HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:10:00] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:10:00] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:10:02] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:10:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:10:03] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:13:41] "GET /terminal HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:13:42] "GET /terminal?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:13:42] "GET /terminal?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:13:42] "GET /terminal?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:13:42] "GET /terminal?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:13:42] "GET /terminal?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:13:42] "GET /terminal?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:13:43] "GET /terminal HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:13:43] "GET /terminal?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:13:43] "GET /terminal?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:13:43] "GET /terminal?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:13:43] "GET /terminal?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:13:43] "GET /terminal?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:13:43] "GET /terminal?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:14:03] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:14:03] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:14:03] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:14:07] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:14:07] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:14:07] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:14:09] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:14:10] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:14:10] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:14:14] "GET /_command?comando=dir HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:14:36] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:14:36] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:14:36] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:14:39] "GET /_command?comando=dir HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:15:23] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:15:24] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:15:24] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:15:26] "GET /_command?comando=dir HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:15:42] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:15:42] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:15:42] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:15:44] "GET /_command?comando=dir HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:16:07] "GET /_command?comando=ipconfig HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:16:24] "GET /_command?comando=cd HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:16:54] "GET /_command?comando=netch+stat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:17:05] "GET /_command?comando=ipconfig+%2Fall HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:17:14] "GET /_command?comando=arp+-a HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:18:13] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:18:13] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:18:13] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:18:15] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:18:15] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:18:15] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:18:51] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:18:51] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:18:51] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:18:56] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:18:56] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:18:56] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:19:16] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:19:16] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:19:16] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:19:26] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:19:26] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:19:26] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:19:36] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:19:38] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:19:38] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:19:38] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:19:40] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:19:40] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:19:40] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:19:41] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:19:41] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:19:41] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:19:48] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:19:48] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:19:48] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:20:08] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:20:08] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:20:08] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:20:16] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:20:16] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:20:16] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:20:20] "GET /_command?comando=dir HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:20:29] "GET /_command?comando=ipconfig HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:21:15] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:21:15] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:21:15] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:21:18] "GET /_command?comando=dir HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:21:21] "GET /_command?comando=ipconfig HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:21:39] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:21:40] "GET /static/style/estilo.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:21:40] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:21:40] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:21:40] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:21:40] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:21:52] "GET /_command?comando=dir HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:21:57] "GET /_command?comando=ipconfig HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:22:09] "GET /terminal HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:22:09] "GET /static/style/estilo.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:22:09] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:23:07] "GET /_command?comando= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:23:08] "GET /_command?comando= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:23:09] "GET /_command?comando= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:23:09] "GET /_command?comando= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:23:09] "GET /_command?comando= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:23:10] "GET /_command?comando= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:23:10] "GET /_command?comando= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:25:27] "GET /_command?comando= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:25:27] "GET /_command?comando= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:25:28] "GET /_command?comando= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:25:28] "GET /_command?comando= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:25:33] "GET /_command?comando= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:25:33] "GET /_command?comando= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:25:33] "GET /_command?comando= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:25:38] "GET /_command?comando=netch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:25:42] "GET /_command?comando=netch+stat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:25:55] "GET /_command?comando=netsh HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:26:09] "GET /_command?comando=as HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:26:12] "GET /_command?comando=sddsfds HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:26:20] "GET /_command?comando=netsh+%2F%3F HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:26:53] "GET /_command?comando=netsh+show+%2F%3F HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:27:36] "GET /_command?comando=netsh+wlan+show+all HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jun/2016 06:28:16] "GET /terminal HTTP/1.1" 200 -

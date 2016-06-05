@@ -44,6 +44,7 @@ body {
 	background-color: #E9E9E9;
 	padding: 0.2em;
 	border: 0.1em solid #E9E9E9;
+	border-left: 0.2em solid #FAFAFA;
 }
 #sesion table td{
 	width: 10em;
@@ -96,6 +97,7 @@ body {
 	margin: 0 auto;
 	text-align: center;
 	border: 0.1em solid gray;
+	border-radius: 1em;
 }
 #login h2 {
 	background-color: #C3F5D6;
@@ -110,4 +112,22 @@ body {
 }
 #login table td {
 	height: 1em;
+}
+#terminal #ejecutar {
+	padding: 0.1em;
+	border: 0.1em solid gray;
+}
+#terminal #ejecutar:hover {
+	background-color: #C3F5D6;
+}
+#terminal #result {
+	margin: 0 auto;
+	padding: 0.2em;
+	width: 80%;
+	min-height: 5em;
+	background-color: white;
+	border: 0.1em solid gray;
+}
+#terminal pre {
+	text-align: left;
 }

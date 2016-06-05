@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block head %}
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type=text/javascript>
+   $(function() {
+    $('a#ejecutar').bind('click', function() {
+      $.getJSON('/_command', {comando: $('input[name="comando"]').val()},
+		function(data) {$("#result").text(data.result);});
+      return false;
+       });
+    });
+</script>
+{% endblock %}	  
+{% block content %}
+    <div id="terminal">
+      Terminal
+	  <br/><br/>
+      <input type="text" size="25" name="comando">
+      <p><a href="javascript:void();" id="ejecutar">Ejecutar Comando</a>
+	  <br/><br/><br/>
+	  Salida:
+	  <pre id="result"></pre>
+      </div>
+{% endblock %}

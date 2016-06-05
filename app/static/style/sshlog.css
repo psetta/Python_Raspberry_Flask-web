@@ -1,0 +1,30 @@
+#sshlog table {
+	font-size: 90%;
+}
+#sshlog table {
+	margin: 0 auto;
+	border: 0.2em solid #C3F5D6;
+	padding: 0.5em;
+}
+#sshlog table th {
+	border: 0.2em solid lightgray; 
+	background-color: #F0F0F0; 
+	margin: 1em; 
+	padding: 0.2em;
+}
+#sshlog table td {
+	border: 0.2em solid #F0F0F0; 
+	padding: 0.2em; 
+	margin: 0.5em;  
+	max-width: 25em;
+	min-width: 3em; 
+	overflow: hidden; 
+	text-overflow: ellipsis;
+}
+#sshlog table tr:hover {
+	background-color: #F0F0F0;
+}
+#sshlog table td:hover {
+	background-color: #C3F5D6; 
+	overflow: visible;
+}
